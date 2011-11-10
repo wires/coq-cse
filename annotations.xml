@@ -21,10 +21,10 @@
     <Label name="commits" />
     <AdditionalData attribute="original_url" value="https://github.com/coq/coq/commit" />
   </Annotation>
-  <Annotation about="www.lix.polytechnique.fr/coq/bugs/show_bug.cgi" timestamp="0x0004b164489466a3" href="Ci53d3cubGl4LnBvbHl0ZWNobmlxdWUuZnIvY29xL2J1Z3Mvc2hvd19idWcuY2dpEKPN0cTErKwC">
-    <Label name="_cse_zxuvtzdoyvi" />
-    <Label name="bugs" />
-    <AdditionalData attribute="original_url" value="www.lix.polytechnique.fr/coq/bugs/show_bug.cgi" />
+  <Annotation about="www.lix.polytechnique.fr/coq/bugs/show_bug.cgi*" timestamp="0x0004b165a9b76b6d" href="Ci93d3cubGl4LnBvbHl0ZWNobmlxdWUuZnIvY29xL2J1Z3Mvc2hvd19idWcuY2dpKhDt1t3N2qysAg">
+      <Label name="_cse_zxuvtzdoyvi" />
+      <Label name="bugs" />
+      <AdditionalData attribute="original_url" value="http://www.lix.polytechnique.fr/coq/bugs/show_bug.cgi*"/>
   </Annotation>
   <Annotation about="www.cis.upenn.edu/~bcpierce/sf/UseTactics.html" timestamp="0x0004ae2a9a61ffc8" href="Ci53d3cuY2lzLnVwZW5uLmVkdS9-YmNwaWVyY2Uvc2YvVXNlVGFjdGljcy5odG1sEMj_h9OpxasC">
     <Label name="tactic" />
