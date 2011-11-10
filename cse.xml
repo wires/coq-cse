@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GoogleCustomizations>
+    <Include type="Annotations" href="http://coqfind.net/annotations.xml">
+    <CustomSearchEngine id="zxuvtzdoyvi" creator="018355336634519249851" language="en" enable_suggest="true">
+      <Title>coq-find</Title>
+      <Description>Search Coq related sites</Description>
+      <Context>
+        <Facet>
+          <FacetItem>
+            <Label name="refman" mode="FILTER">
+              <Rewrite></Rewrite>
+            </Label>
+            <Title>refman</Title>
+          </FacetItem>
+          <FacetItem>
+            <Label name="coq-club" mode="FILTER">
+              <Rewrite></Rewrite>
+            </Label>
+            <Title>coq-club</Title>
+          </FacetItem>
+          <FacetItem>
+            <Label name="commits" mode="FILTER">
+              <Rewrite></Rewrite>
+            </Label>
+            <Title>commits</Title>
+          </FacetItem>
+        </Facet>
+        <Facet>
+          <FacetItem>
+            <Label name="math-classes" mode="FILTER">
+              <Rewrite></Rewrite>
+            </Label>
+            <Title>math-classes</Title>
+          </FacetItem>
+        </Facet>
+        <Facet>
+          <FacetItem>
+            <Label name="stdlib" mode="FILTER">
+              <Rewrite></Rewrite>
+            </Label>
+            <Title>stdlib</Title>
+          </FacetItem>
+          <FacetItem>
+            <Label name="bugs" mode="FILTER">
+              <Rewrite></Rewrite>
+            </Label>
+            <Title>bugs</Title>
+          </FacetItem>
+        </Facet>
+        <Facet>
+          <FacetItem>
+            <Label name="corn" mode="FILTER">
+              <Rewrite></Rewrite>
+            </Label>
+            <Title>corn</Title>
+          </FacetItem>
+          <FacetItem>
+            <Label name="tactic" mode="FILTER">
+              <Rewrite></Rewrite>
+            </Label>
+            <Title>tactic</Title>
+          </FacetItem>
+          <FacetItem>
+            <Label name="cpdt" mode="FILTER">
+              <Rewrite></Rewrite>
+            </Label>
+            <Title>cpdt</Title>
+          </FacetItem>
+          <FacetItem>
+            <Label name="sf" mode="FILTER">
+              <Rewrite></Rewrite>
+            </Label>
+            <Title>sf</Title>
+          </FacetItem>
+        </Facet>
+        <BackgroundLabels>
+          <Label name="_cse_zxuvtzdoyvi" mode="FILTER" />
+          <Label name="_cse_exclude_zxuvtzdoyvi" mode="ELIMINATE" />
+        </BackgroundLabels>
+      </Context>
+      <LookAndFeel code="4" nonprofit="false" googlebranding="watermark" element_layout="1" theme="1" custom_theme="false" text_font="Arial, sans-serif" url_length="full" enable_cse_thumbnail="true">
+        <Logo />
+        <Colors url="#008000" background="#FFFFFF" border="#FFFFFF" title="#0000CC" text="#000000" visited="#0000CC" title_hover="#0000CC" title_active="#0000CC" />
+        <Promotions title_color="#0000CC" title_visited_color="#0000CC" url_color="#008000" background_color="#FFFFFF" border_color="#336699" snippet_color="#000000" title_hover_color="#0000CC" title_active_color="#0000CC" />
+        <SearchControls input_border_color="#BCCDF0" button_border_color="#666666" button_background_color="#CECECE" tab_border_color="#E9E9E9" tab_background_color="#E9E9E9" tab_selected_border_color="#FF9900" tab_selected_background_color="#FFFFFF" />
+        <Results border_color="#FFFFFF" border_hover_color="#FFFFFF" background_color="#FFFFFF" background_hover_color="#FFFFFF" />
+      </LookAndFeel>
+      <AdSense />
+      <EnterpriseAccount />
+      <autocomplete_settings />
+    </CustomSearchEngine>
+</GoogleCustomizations>
