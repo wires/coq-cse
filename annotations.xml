@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<Annotations start="0" num="25" total="25">
-  <Annotation about="sympa-roc.inria.fr/wws/arc/coq-club/*/*.html" timestamp="0x0004b1646c6cf6ed" href="CixzeW1wYS1yb2MuaW5yaWEuZnIvd3dzL2FyYy9jb3EtY2x1Yi8qLyouaHRtbBDt7bPjxqysAg">
+<Annotations start="0" num="26" total="26">
+  <Annotation about="permalink.gmane.org/gmane.science.mathematics.logic.coq.club/*" timestamp="0x0004b164d814a756" href="Cj5wZXJtYWxpbmsuZ21hbmUub3JnL2dtYW5lLnNjaWVuY2UubWF0aGVtYXRpY3MubG9naWMuY29xLmNsdWIvKhDWztLAzaysAg">
     <Label name="coq-club" />
     <Label name="_cse_zxuvtzdoyvi" />
-    <AdditionalData attribute="original_url" value="https://sympa-roc.inria.fr/wws/arc/coq-club/*/*.html" />
+    <AdditionalData attribute="original_url" value="http://permalink.gmane.org/gmane.science.mathematics.logic.coq.club/*" />
   </Annotation>
-  <Annotation about="sympa-roc.inria.fr/wws/arc/coq-club*" timestamp="0x0004b1646766d02e" href="CiRzeW1wYS1yb2MuaW5yaWEuZnIvd3dzL2FyYy9jb3EtY2x1YioQrqCbu8asrAI">
+  <Annotation about="news.gmane.org/gmane.science.mathematics.logic.coq.club*" timestamp="0x0004b164ccd547b4" href="CjhuZXdzLmdtYW5lLm9yZy9nbWFuZS5zY2llbmNlLm1hdGhlbWF0aWNzLmxvZ2ljLmNvcS5jbHViKhC0j9XmzKysAg">
     <Label name="coq-club" />
     <Label name="_cse_zxuvtzdoyvi" />
-    <AdditionalData attribute="original_url" value="https://sympa-roc.inria.fr/wws/arc/coq-club" />
+    <AdditionalData attribute="original_url" value="http://news.gmane.org/gmane.science.mathematics.logic.coq.club*" />
+  </Annotation>
+  <Annotation about="article.gmane.org/gmane.science.mathematics.logic.coq.club/*" timestamp="0x0004b164cbd24426" href="CjxhcnRpY2xlLmdtYW5lLm9yZy9nbWFuZS5zY2llbmNlLm1hdGhlbWF0aWNzLmxvZ2ljLmNvcS5jbHViLyoQpojJ3sysrAI">
+    <Label name="coq-club" />
+    <Label name="_cse_zxuvtzdoyvi" />
+    <Label name="_csefeed_zxuvtzdoyvi" />
+    <AdditionalData attribute="original_url" value="http://article.gmane.org/gmane.science.mathematics.logic.coq.club/*" />
   </Annotation>
   <Annotation about="github.com/coq/coq/commit*" timestamp="0x0004b16449aef950" href="ChpnaXRodWIuY29tL2NvcS9jb3EvY29tbWl0KhDQ8rvNxKysAg">
     <Label name="_cse_zxuvtzdoyvi" />
@@ -109,10 +115,10 @@
     <Label name="_cse_exclude_zxuvtzdoyvi" />
     <AdditionalData attribute="original_url" value="http://www.cs.ru.nl/~jherold/*/toc.html" />
   </Annotation>
-  <Annotation about="www.google.com/cse/tools/makeannotations?url=https%3A%2F%2Fsympa-roc.inria.fr%2Fwws%2Farc%2Fcoq-club&amp;pattern=exact&amp;label=coq-club&amp;label=_cse_zxuvtzdoyvi&amp;label=_csefeed_zxuvtzdoyvi" timestamp="0x0004b16472ff3956" href="CrMBd3d3Lmdvb2dsZS5jb20vY3NlL3Rvb2xzL21ha2Vhbm5vdGF0aW9ucz91cmw9aHR0cHMlM0ElMkYlMkZzeW1wYS1yb2MuaW5yaWEuZnIlMkZ3d3MlMkZhcmMlMkZjb3EtY2x1YiZwYXR0ZXJuPWV4YWN0JmxhYmVsPWNvcS1jbHViJmxhYmVsPV9jc2Vfenh1dnR6ZG95dmkmbGFiZWw9X2NzZWZlZWRfenh1dnR6ZG95dmkQ1vL8l8esrAI" feed="true">
+  <Annotation about="www.google.com/cse/tools/makeannotations?url=http%3A%2F%2Frss.gmane.org%2Fmessages%2Fcomplete%2Fgmane.science.mathematics.logic.coq.club&amp;pattern=exact&amp;label=coq-club&amp;label=_cse_zxuvtzdoyvi&amp;label=_csefeed_zxuvtzdoyvi" timestamp="0x0004b164c43f263a" href="CtcBd3d3Lmdvb2dsZS5jb20vY3NlL3Rvb2xzL21ha2Vhbm5vdGF0aW9ucz91cmw9aHR0cCUzQSUyRiUyRnJzcy5nbWFuZS5vcmclMkZtZXNzYWdlcyUyRmNvbXBsZXRlJTJGZ21hbmUuc2NpZW5jZS5tYXRoZW1hdGljcy5sb2dpYy5jb3EuY2x1YiZwYXR0ZXJuPWV4YWN0JmxhYmVsPWNvcS1jbHViJmxhYmVsPV9jc2Vfenh1dnR6ZG95dmkmbGFiZWw9X2NzZWZlZWRfenh1dnR6ZG95dmkQusz8ocysrAI" feed="true">
     <Label name="coq-club" />
     <Label name="_cse_zxuvtzdoyvi" />
     <Label name="_csefeed_zxuvtzdoyvi" />
-    <AdditionalData attribute="original_url" value="https://sympa-roc.inria.fr/wws/arc/coq-club" />
+    <AdditionalData attribute="original_url" value="http://rss.gmane.org/messages/complete/gmane.science.mathematics.logic.coq.club" />
   </Annotation>
 </Annotations>
